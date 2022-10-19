@@ -1,2 +1,2 @@
 # flo_kit
-> SBC running version android OS + expantion board with varity of IO necessary for robots
+> SBC running a version of android OS + expansion board with variety of IO necessary for robots
