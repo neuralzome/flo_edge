@@ -2,4 +2,4 @@
 
 ![Poco F1](./pocof1.svg)
 
-* [Teardown](https://www.youtube.com/watch?v=a06eVo1hSE0)
+* [Teardown](https://www.youtube.com/watch?v=L5VWWba0coY)
