@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="404.28286"
-     inkscape:cy="477.60395"
+     inkscape:cx="441.70865"
+     inkscape:cy="357.54867"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,18 +76,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.54577333"
-       x="-205.69765"
-       y="124.16455"
+       x="-185.28407"
+       y="124.32492"
        id="text1047"
        transform="rotate(-89.389189)"><tspan
          sodipodi:role="line"
          id="tspan1045"
-         x="-205.69765"
-         y="124.16455"
+         x="-185.28407"
+         y="124.32492"
          style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.54577333">40 pin GPIO</tspan><tspan
          sodipodi:role="line"
-         x="-205.69765"
-         y="129.89719"
+         x="-185.28407"
+         y="130.05756"
          style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.54577333"
          id="tspan1049">header</tspan></text>
     <text
@@ -238,16 +238,16 @@
          id="tspan1173">(Power Input)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.9315958px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33624515"
-       x="-172.99071"
-       y="124.96484"
+       style="font-style:normal;font-weight:normal;font-size:4.17139673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2844134"
+       x="-267.20346"
+       y="26.095316"
        id="text987-7-2"
        transform="rotate(-89.791563)"><tspan
          sodipodi:role="line"
          id="tspan985-5-7"
-         x="-172.99071"
-         y="124.96484"
-         style="stroke-width:0.33624515">HDMI</tspan></text>
+         x="-267.20346"
+         y="26.095316"
+         style="stroke-width:0.2844134">HDMI</tspan></text>
     <image
        y="-272.5079"
        x="-96.744286"
@@ -261,30 +261,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-243.52623"
-       y="24.896093"
+       x="-237.28963"
+       y="119.39014"
        id="text1386"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan1384"
-         x="-243.52623"
-         y="24.896093"
+         x="-237.28963"
+         y="119.39014"
          style="stroke-width:0.26458332">LED</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-267.75134"
-       y="16.083376"
+       x="-242.52719"
+       y="120.30117"
        id="text1390"
        transform="rotate(-91.410161)"><tspan
          sodipodi:role="line"
          id="tspan1388"
-         x="-267.75134"
-         y="16.083376"
+         x="-242.52719"
+         y="120.30117"
          style="stroke-width:0.26458332">Toggle</tspan><tspan
          sodipodi:role="line"
-         x="-267.75134"
-         y="20.934071"
+         x="-242.52719"
+         y="125.15186"
          style="stroke-width:0.26458332"
          id="tspan1392">Switch</tspan></text>
     <path
@@ -296,9 +296,9 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1396"
        width="17.508183"
-       height="43.818394"
+       height="73.489517"
        x="15.494321"
-       y="229.25516" />
+       y="199.58403" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -321,5 +321,29 @@
          x="210.07384"
          y="100.02235"
          style="font-size:7.76111126px;stroke-width:0.26458332">Back</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-249.62672"
+       y="24.878721"
+       id="text858"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan856"
+         x="-249.62672"
+         y="24.878721"
+         style="stroke-width:0.26458332">Ethernet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-227.08121"
+       y="24.633787"
+       id="text862"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan860"
+         x="-227.08121"
+         y="24.633787"
+         style="stroke-width:0.26458332">Push Bottons</tspan></text>
   </g>
 </svg>
