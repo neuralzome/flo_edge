@@ -5,14 +5,14 @@
     1. Material: ABS 
     2. With threaded inserts.
     3. With provision for mounting. 
-3. Heat sink with fan.
+3. Spring loaded Heat sink with fan.
     1. Attached to processor with thermal paste. 
 4. Carrier Board
     1. Input power through USB C. 
     2. 4 USB Type A 3.0 port connected to phone.
-    3. 1 Ethernet port connected to USB port of the phone via ethernet to usb converter.
+    3. 1 Ethernet port connected to phone.
     4. 1 micro HDMI port connected to phone display port.
-    5. Speaker
+    5. 1 Speaker
     6. Heatsink fan input.
     7. Connections to Pocophone F1
         1. B+ and B- from battery pcb.
