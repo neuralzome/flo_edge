@@ -1,4 +1,5 @@
 # flokit v1
+> [reff](https://www.youtube.com/watch?v=y_1fQNMngR8)
 
 1. Pocophone F1 as main processor.
 2. 3D printed case
