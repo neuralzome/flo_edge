@@ -19,7 +19,8 @@
         2. ~~Display port.~~
         3. ~~Power and volume push button connector.~~
         4. USB C port.
-        5. Audio jack
+        5. Audio jack.
+        6. Antenna ports.
     8. STM32F401CCU6 connected to phone with 40 pin expantion header exposed.
     9. Toggle switch to disconnect power signal via USB to phone.
     10. LED to indicate whether phone is on or not.
