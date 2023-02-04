@@ -1,7 +1,7 @@
 # Flo Edge
-> [reff](https://www.youtube.com/watch?v=y_1fQNMngR8), [approaches](https://docs.google.com/spreadsheets/d/1BthkBxEVvZwUj0DJqJtIEh1Ik83EtCKjhRa28SElPOE/edit?usp=sharing)
+> [approaches](https://docs.google.com/spreadsheets/d/1BthkBxEVvZwUj0DJqJtIEh1Ik83EtCKjhRa28SElPOE/edit?usp=sharing)
 
-1. Pocophone F1 SOM as main compute sensor and comms board
+1. Pocophone F1 SOM as main compute, sensor and comms board
 2. 3D printed case
     1. Material: Nylone
     2. With threaded inserts
@@ -18,10 +18,14 @@
     7. Power, V+ & V- from poco f1 side button pcb
     8. STM32F401CCU6 to control internal working
 5. External helper pcb
-  1. USB C female for connecting external usb device.
-  2. Barrel jack for 12V power input.
-  3. Switch to select mode (Normal, Fastboot, Recovery)
-  4. Multi color LED to show status
-  5. Push button for start and shutdown.
+    1. USB C female for connecting external usb device.
+    2. Barrel jack for 12V power input.
+    3. Switch to select mode (Normal, Fastboot, Recovery)
+    4. Multi color LED to show status
+    5. Push button for start and shutdown.
   
 ![carrier_board](./carrier_board.svg)
+
+## Reference
+1. [aidlux](https://www.youtube.com/watch?v=y_1fQNMngR8)
+2. [comma ai](https://comma.ai/)
