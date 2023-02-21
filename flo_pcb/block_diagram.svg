@@ -420,8 +420,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="629.22262"
-     inkscape:cy="293.92734"
+     inkscape:cx="445.37486"
+     inkscape:cy="289.88673"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -864,17 +864,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="237.10281"
-       y="232.20737"
+       x="236.56827"
+       y="226.59471"
        id="text5164"><tspan
          sodipodi:role="line"
          id="tspan5162"
-         x="237.10281"
-         y="232.20737"
+         x="236.56827"
+         y="226.59471"
          style="stroke-width:0.26458332">12V barrel jack</tspan><tspan
          sodipodi:role="line"
-         x="237.10281"
-         y="237.05806"
+         x="236.56827"
+         y="231.4454"
          style="stroke-width:0.26458332"
          id="tspan5166">for power input</tspan></text>
     <text
@@ -896,49 +896,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="250.73355"
-       y="193.18602"
+       x="251.2681"
+       y="196.12599"
        id="text5176"><tspan
          sodipodi:role="line"
          id="tspan5174"
-         x="250.73355"
-         y="193.18602"
+         x="251.2681"
+         y="196.12599"
          style="stroke-width:0.26458332">Switch to select boot mode</tspan><tspan
          sodipodi:role="line"
-         x="250.73355"
-         y="198.03671"
+         x="251.2681"
+         y="200.97668"
          style="stroke-width:0.26458332"
          id="tspan5178">(Fastboot, Normal)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="250.46628"
-       y="206.28223"
-       id="text5182"><tspan
-         sodipodi:role="line"
-         id="tspan5180"
-         x="250.46628"
-         y="206.28223"
-         style="stroke-width:0.26458332">Switch to select USB mode</tspan><tspan
-         sodipodi:role="line"
-         x="250.46628"
-         y="211.13292"
-         style="stroke-width:0.26458332"
-         id="tspan5184">(OTG/Regular)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="250.73355"
-       y="219.91296"
+       x="251.00082"
+       y="210.02399"
        id="text5188"><tspan
          sodipodi:role="line"
          id="tspan5186"
-         x="251.35031"
-         y="219.91296"
+         x="251.61758"
+         y="210.02399"
          style="stroke-width:0.26458332">Push button to initiate </tspan><tspan
          sodipodi:role="line"
-         x="250.73355"
-         y="224.76366"
+         x="251.00082"
+         y="214.87468"
          style="stroke-width:0.26458332"
          id="tspan5190">boot and shutdown phone</tspan></text>
     <rect
