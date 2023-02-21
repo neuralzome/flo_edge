@@ -420,8 +420,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="325.1667"
-     inkscape:cy="313.12024"
+     inkscape:cx="629.22262"
+     inkscape:cy="293.92734"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -807,22 +807,6 @@
          id="tspan4598-7">pins x 3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="179.56108"
-       y="182.29813"
-       id="text1473-5"><tspan
-         sodipodi:role="line"
-         id="tspan1471-3"
-         x="179.56108"
-         y="182.29813"
-         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332">USB</tspan><tspan
-         sodipodi:role="line"
-         x="179.56108"
-         y="185.8259"
-         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4590-5">(D+, D-, 5v, GND)</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="175.70888"
        y="225.96063"
@@ -1007,5 +991,26 @@
          x="224.89583"
          y="266.7619"
          style="font-size:7.05555534px;stroke-width:0.26458332">Flo Edge attachment PCB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="179.62166"
+       y="180.47667"
+       id="text1473-3"><tspan
+         sodipodi:role="line"
+         id="tspan1471-6"
+         x="179.62166"
+         y="180.47667"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332">USB</tspan><tspan
+         sodipodi:role="line"
+         x="179.62166"
+         y="184.00444"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4590-7">(D+, D-, cc1, cc2,</tspan><tspan
+         sodipodi:role="line"
+         x="179.62166"
+         y="187.53223"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan2378-5">5v, GND)</tspan></text>
   </g>
 </svg>
