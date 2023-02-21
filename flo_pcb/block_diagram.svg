@@ -254,22 +254,6 @@
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker1927"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1925"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -398,38 +382,6 @@
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path868"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lstart"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path865"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker4317-4"
@@ -467,9 +419,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="299.1465"
-     inkscape:cy="116.20187"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="537.29873"
+     inkscape:cy="434.33855"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -529,22 +481,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="75.719635"
-       y="168.4904"
-       id="text825"><tspan
-         sodipodi:role="line"
-         id="tspan823"
-         x="75.719635"
-         y="168.4904"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332">OTG/</tspan><tspan
-         sodipodi:role="line"
-         x="75.719635"
-         y="173.34109"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan827">Regular</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="59.050293"
        y="225.04762"
        id="text831"><tspan
@@ -561,12 +497,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="39.303001"
+       x="64.292702"
        y="170.56927"
        id="text837"><tspan
          sodipodi:role="line"
          id="tspan835"
-         x="39.303001"
+         x="64.292702"
          y="170.56927"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">USB</tspan></text>
     <text
@@ -631,23 +567,6 @@
        height="66.334816"
        x="12.844676"
        y="165.2776" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path861"
-       sodipodi:type="arc"
-       sodipodi:cx="75.683205"
-       sodipodi:cy="170.1913"
-       sodipodi:rx="10.29985"
-       sodipodi:ry="9.260417"
-       sodipodi:start="0"
-       sodipodi:end="6.2819287"
-       sodipodi:open="true"
-       d="m 85.983055,170.1913 a 10.29985,9.260417 0 0 1 -10.296615,9.26042 10.29985,9.260417 0 0 1 -10.303084,-9.2546 10.29985,9.260417 0 0 1 10.290142,-9.26623 10.29985,9.260417 0 0 1 10.309549,9.24877" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
-       d="M 24.561934,171.89219 H 64.627409"
-       id="path863"
-       inkscape:connector-curvature="0" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1179"
@@ -707,19 +626,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="130.58627"
-       y="182.8132"
+       x="130.45264"
+       y="181.07594"
        id="text1473"><tspan
          sodipodi:role="line"
          id="tspan1471"
-         x="130.58627"
-         y="182.8132"
+         x="130.45264"
+         y="181.07594"
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332">USB</tspan><tspan
          sodipodi:role="line"
-         x="130.58627"
-         y="186.34097"
+         x="130.45264"
+         y="184.60371"
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4590">(D+, D-, 5v, GND)</tspan></text>
+         id="tspan4590">(D+, D-, cc1, cc2,</tspan><tspan
+         sodipodi:role="line"
+         x="130.45264"
+         y="188.1315"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan2378">5v, GND)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -762,34 +686,29 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1497);marker-end:url(#marker1573)"
-       d="M 117.73306,184.55439 H 106.96073 V 171.51422 H 86.172047"
+       d="m 117.73306,184.55439 h -10.77233 v -13.04017 l -82.661579,0"
        id="path1487"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1657)"
        d="M 117.73306,203.30057 H 93.920562"
        id="path1647"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1927)"
-       d="m 75.210747,185.68832 -0.18899,-6.2366"
-       id="path1917"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="130.22997"
-       y="193.28975"
+       x="129.96269"
+       y="194.22519"
        id="text2357"><tspan
          sodipodi:role="line"
          id="tspan2355"
-         x="130.22997"
-         y="193.28975"
+         x="129.96269"
+         y="194.22519"
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332">UART</tspan><tspan
          sodipodi:role="line"
-         x="130.22997"
-         y="196.81752"
+         x="129.96269"
+         y="197.75296"
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          id="tspan4592">(rx, tx)</tspan></text>
     <path
