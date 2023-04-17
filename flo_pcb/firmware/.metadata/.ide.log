@@ -1,0 +1,26 @@
+2023-04-15 11:01:45,633 [INFO] Activator:176 - 
+
+
+2023-04-15 11:01:45,635 [INFO] Activator:177 - !SESSION log4j initialized
+2023-04-15 11:01:47,360 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-04-15 11:01:47,572 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:01:47,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:01:47,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:02:07,768 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-04-15 11:02:07,768 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-04-15 11:02:07,769 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-04-15 11:02:46,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:02:46,028 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:02:46,029 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:27,572 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:27,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:27,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:35,242 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:35,243 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:03:35,243 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:28,201 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:28,202 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:28,204 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:32,918 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:32,918 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-04-15 11:17:32,919 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com

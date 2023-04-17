@@ -1,0 +1,10 @@
+11:17:32 **** Incremental Build of configuration Debug for project flo_edge ****
+make -j12 all 
+arm-none-eabi-size   flo_edge.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6572	     20	   1572	   8164	   1fe4	flo_edge.elf
+Finished building: default.size.stdout
+ 
+
+11:17:32 Build Finished. 0 errors, 0 warnings. (took 112ms)
+

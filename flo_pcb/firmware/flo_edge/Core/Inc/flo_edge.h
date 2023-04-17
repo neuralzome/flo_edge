@@ -13,7 +13,8 @@
 #define FASTBOOT_TO_BOOT_POWER_BUTTON_HOLD_TIME_MS 7500
 #define FASTBOOT_POWER_BUTTON_HOLD_TIME_MS 6500
 #define SHUTDOWN_POWER_BUTTON_HOLD_TIME_MS 2000
-#define EXTENDED_SHUTDOWN_DURATION 8000
+#define EXTENDED_SHUTDOWN_DURATION_MS 8000
+#define TIMEOUT_DURATION_MS 30000
 
 #define BLINK_DELAY 50
 
@@ -121,6 +122,7 @@ void boot_main(){
 	// 1. Phone on
 	int rgb_led_state = 0;
 	unsigned long t = HAL_GetTick();
+	unsigned long t_haptic = HAL_GetTick();
 	while(1){
 		if(read_push_button() != 1){
 			t = HAL_GetTick();
@@ -129,8 +131,13 @@ void boot_main(){
 			set_debug_led(1);
 		}
 
+		if(HAL_GetTick() - t_haptic > TIMEOUT_DURATION_MS){
+			break;
+		}
+
 		int haptic = read_haptic();
 		if(haptic == 1){
+			t_haptic = HAL_GetTick();
 			set_rgb_led(0, 1, 0);
 			if(HAL_GetTick() - t > PUSH_BUTTON_PRESS_DURATION_MS){
 				set_debug_led(0);
@@ -182,7 +189,7 @@ void boot_main(){
 	// 4. Wait for EXTENDED_SHUTDOWN_DURATION
 	t = HAL_GetTick();
 	rgb_led_state = 0;
-	while(HAL_GetTick() - t < EXTENDED_SHUTDOWN_DURATION){
+	while(HAL_GetTick() - t < EXTENDED_SHUTDOWN_DURATION_MS){
 		if(rgb_led_state == 0){
 			rgb_led_state = 1;
 		}else{
@@ -274,7 +281,7 @@ void flo_edge_main(){
 
 		boot_main();
 	}else if(read_boot_mode() == 1){// fastboot mode
-		// Red blinking until power button press
+		// Red blinking until power and v- button press
 		t = HAL_GetTick();
 		press_p();
 		press_vm();

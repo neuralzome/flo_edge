@@ -60,8 +60,8 @@ all: main-build
 main-build: flo_edge.elf secondary-outputs
 
 # Tool invocations
-flo_edge.elf flo_edge.map: $(OBJS) $(USER_OBJS) /home/aditya/work/stm32_projects/flo_edge/STM32F030CCTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "flo_edge.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"/home/aditya/work/stm32_projects/flo_edge/STM32F030CCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="flo_edge.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+flo_edge.elf flo_edge.map: $(OBJS) $(USER_OBJS) /home/aditya/work/flo_edge/flo_edge/flo_pcb/firmware/flo_edge/STM32F030CCTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "flo_edge.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"/home/aditya/work/flo_edge/flo_edge/flo_pcb/firmware/flo_edge/STM32F030CCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="flo_edge.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
